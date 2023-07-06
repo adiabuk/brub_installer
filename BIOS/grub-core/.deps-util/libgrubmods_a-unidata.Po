@@ -1,0 +1,33 @@
+grub-core/libgrubmods_a-unidata.o: ../grub-core/unidata.c \
+ /usr/include/stdc-predef.h ../include/grub/unicode.h \
+ ../include/grub/types.h config.h config-util.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h ../include/grub/mm.h \
+ ../include/grub/err.h ../include/grub/symbol.h \
+ ../include/grub/compiler.h ../include/grub/misc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h ../include/grub/i18n.h
+
+/usr/include/stdc-predef.h:
+
+../include/grub/unicode.h:
+
+../include/grub/types.h:
+
+config.h:
+
+config-util.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdbool.h:
+
+../include/grub/mm.h:
+
+../include/grub/err.h:
+
+../include/grub/symbol.h:
+
+../include/grub/compiler.h:
+
+../include/grub/misc.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h:
+
+../include/grub/i18n.h:

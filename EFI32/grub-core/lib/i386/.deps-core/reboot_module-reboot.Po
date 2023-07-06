@@ -1,0 +1,1 @@
+lib/i386/reboot_module-reboot.o: ../../grub-core/lib/i386/reboot.c
